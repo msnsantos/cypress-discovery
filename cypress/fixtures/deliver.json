@@ -1,0 +1,54 @@
+{
+    "signup": {
+        "nome": "Monica Souza",
+        "cpf": "00000014141",
+        "email": "dmmsantos@hotmail.com",
+        "whatsapp": "1199999999",
+        "endereco": {
+            "cep": "07022241",
+            "rua": "Rua Corredor São João",
+            "numero": "75",
+            "complemento": "Apto 14",
+            "bairro": "Gopoúva",
+            "cidade_uf": "Guarulhos/SP"
+
+        },
+        "metodo_entrega": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "nome": "Luciano Santos",
+        "cpf": "000000141MM",
+        "email": "lucianos@hotmail.com",
+        "whatsapp": "1199999999",
+        "endereco": {
+            "cep": "07022241",
+            "rua": "Rua Corredor São João",
+            "numero": "75",
+            "complemento": "Apto 14",
+            "bairro": "Gopoúva",
+            "cidade_uf": "Guarulhos/SP"
+
+        },
+        "metodo_entrega": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_invalido":{
+        "nome": "Monica Souza",
+        "cpf": "00000014141",
+        "email": "dmmsantos.hotmail.com",
+        "whatsapp": "1199999999",
+        "endereco": {
+            "cep": "07022241",
+            "rua": "Rua Corredor São João",
+            "numero": "75",
+            "complemento": "Apto 14",
+            "bairro": "Gopoúva",
+            "cidade_uf": "Guarulhos/SP"
+
+        },
+        "metodo_entrega": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    }
+}
